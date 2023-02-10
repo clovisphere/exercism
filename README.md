@@ -7,8 +7,11 @@ This repository contains my [work](https://exercism.org/profiles/clovisphere) to
 N/A
 
 #### In progress
-- [ ] C
-- [ ] Gleam
-- [ ] Ruby
-- [ ] Scala
+- [ ] [C](https://exercism.org/tracks/c)
+- [ ] [Gleam](https://exercism.org/tracks/gleam)
+- [ ] [Ruby](https://exercism.org/tracks/ruby)
+- [ ] [Scala](https://exercism.org/tracks/scala)
 
+
+## License
+[MIT License](./LICENSE)
