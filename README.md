@@ -7,10 +7,11 @@ This repository contains my [work](https://exercism.org/profiles/clovisphere) to
 N/A
 
 #### In progress
-- [ ] [C](https://exercism.org/tracks/c)
-- [ ] [Gleam](https://exercism.org/tracks/gleam)
-- [ ] [Ruby](https://exercism.org/tracks/ruby)
-- [ ] [Scala](https://exercism.org/tracks/scala)
+- [ ] [c](https://exercism.org/tracks/c)
+- [ ] [gleam](https://exercism.org/tracks/gleam)
+- [ ] [ruby](https://exercism.org/tracks/ruby)
+- [ ] [scala](https://exercism.org/tracks/scala)
+- [ ] [clojure](https://exercism.org/tracks/clojure)
 
 
 ## License
