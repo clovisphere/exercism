@@ -2,25 +2,25 @@
 
 (def last-week (vector 0 2 5 3 7 8 4))
 
-(defn today 
-  [birds]
-  (last birds))
+(def today last)
 
-(defn inc-bird 
-  [birds]
-  (conj (pop birds) (inc (last birds))))
+(defn inc-bird [birds]
+  (-> birds
+      pop
+      (conj (-> birds today inc))))
 
-(defn day-without-birds?
-  [birds]
-  (some? (some #(= % 0) birds)))
+(defn day-without-birds? [birds]
+  (not (every? pos? birds)))
 
-(defn n-days-count 
-  [birds n]
-  (reduce + (subvec birds 0 n)))
+(defn n-days-count [birds n]
+  (->> birds
+       (take n)
+       (reduce +)))
 
-(defn busy-days 
-  [birds]
-  (count (filter #(>= % 5) birds)))
+(defn busy-days [birds]
+  (->> birds
+       (remove #(< % 5))
+       count))
 
 (defn odd-week? 
   [birds]
