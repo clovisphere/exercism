@@ -1,18 +1,32 @@
-# Exercism.org - exercises
+# Exercism Solutions Repository
 
-This repository contains my [work](https://exercism.org/profiles/clovisphere) to the programming exercises on [exercism.org](https://exercism.org/).
+This repository showcases my solutions to various programming exercises from **Exercism.org**, a platform for code practice and mentorship.
 
-#### Completed
+You can view my official Exercism profile here: [clovisphere's Exercism Profile](https://exercism.org/profiles/clovisphere)
 
-N/A
+---
 
-#### In progress
-- [ ] [c](https://exercism.org/tracks/c)
-- [ ] [gleam](https://exercism.org/tracks/gleam)
-- [ ] [ruby](https://exercism.org/tracks/ruby)
-- [ ] [scala](https://exercism.org/tracks/scala)
-- [ ] [clojure](https://exercism.org/tracks/clojure)
+## 📚 Tracks in Progress
 
+The following language tracks currently contain work-in-progress solutions:
 
-## License
-[MIT License](./LICENSE)
+* **C** [[Link]](https://exercism.org/tracks/c)
+* **Clojure** [[Link]](https://exercism.org/tracks/clojure)
+* **Elixir** [[Link]](https://exercism.org/tracks/elixir)
+* **Gleam** [[Link]](https://exercism.org/tracks/gleam)
+* **Ruby** [[Link]](https://exercism.org/tracks/ruby)
+* **Scala** [[Link]](https://exercism.org/tracks/scala)
+
+---
+
+## ✅ Completed Tracks
+
+*(Use this section to list tracks you have officially finished or have significant progress on. If none, keep it brief.)*
+
+Currently, no tracks are fully completed.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](./LICENSE).
