@@ -10,18 +10,13 @@ You can view my official Exercism profile [here](https://exercism.org/profiles/c
 
 The following language tracks currently contain work-in-progress solutions:
 
-* [C](https://exercism.org/tracks/c)
-* [Clojure](https://exercism.org/tracks/clojure)
-* [Elixir](https://exercism.org/tracks/elixir)
-* [Gleam](https://exercism.org/tracks/gleam)
-* [Ruby](https://exercism.org/tracks/ruby)
-* [Scala](https://exercism.org/tracks/scala)
-
----
-
-## ✅ Completed Tracks
-
-Currently, no tracks are fully completed.
+- [ ] [C](https://exercism.org/tracks/c)
+- [ ] [Clojure](https://exercism.org/tracks/clojure)
+- [ ] [Elixir](https://exercism.org/tracks/elixir)
+- [ ] [Gleam](https://exercism.org/tracks/gleam)
+- [ ] [Ruby](https://exercism.org/tracks/ruby)
+- [ ] [OCaml](https://exercism.org/tracks/ocaml)
+- [ ] [Scala](https://exercism.org/tracks/scala)
 
 ---
 
